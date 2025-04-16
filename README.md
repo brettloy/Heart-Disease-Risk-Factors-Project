@@ -85,5 +85,4 @@ To identify key predictors of heart disease and explore whether combinations of 
 - Abhi Gupta  
 - Alexander Yu
 
-📬 Contact: brettloy07@gmail.com  
 
